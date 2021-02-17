@@ -54,6 +54,7 @@ body {
 
 .header__list li {
 	position: relative;
+	padding: 10px 0px 10px 10px;
 }
 .header__list > li:hover .header__link {
 	color: yellow;
@@ -94,7 +95,6 @@ body {
 	position: absolute;
 	top: 100%;
 	left: 0;
-	padding: 0px 0px 0px 10px;
 	width: 178px;
 	display: none;
 }
@@ -114,7 +114,7 @@ body {
 	position: absolute;
 	top: 0;
 	left: 100%;
-	width: 205px;
+	width: 215px;
 	background-color: rgb(139, 44, 44);
 }
 #right,
